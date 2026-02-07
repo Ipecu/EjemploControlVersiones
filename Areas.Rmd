@@ -9,18 +9,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<<<<<<< HEAD
-## Área círculo
 
-
-
-```{r cars}
-r<- 0.5
-=======
 ## Área Círculo
 ```{r}
 r<-0.5
->>>>>>> cfbf9b4ae5318844a5374e6e30cc911285c7d2a6
 Area<-pi*r^2
 ```
 
