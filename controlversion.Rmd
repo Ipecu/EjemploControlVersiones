@@ -1,7 +1,7 @@
 ---
 title: "p1-contol"
-author: "Irene Pérez"
-date: ""
+author: "Irene Pérez Cubas"
+date: "07/02/2026"
 output:
   html_document: default
   pdf_document: default
