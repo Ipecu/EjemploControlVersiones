@@ -9,21 +9,28 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<<<<<<< HEAD
 ## Área círculo
 
 
 
 ```{r cars}
 r<- 0.5
+=======
+## Área Círculo
+```{r}
+r<-0.5
+>>>>>>> cfbf9b4ae5318844a5374e6e30cc911285c7d2a6
 Area<-pi*r^2
 ```
 
-## Including Plots
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+## Área cuadrado
+
+```{r}
+Lado<-3
+AreaCuadrado<-Lado^2
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
